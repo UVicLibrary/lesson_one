@@ -1,0 +1,183 @@
+title:	Japanese to Keep Order: proclamations issued by Commander in Chef of the Japanse Army and Navy in the Shanghai area																	
+dc.subject:	"abkhazi, peggy, 1902-1994;    Sino-Japanese, 1937-1945--China Shanghai; World War, 1939-1942--Personal narratives, British"																	
+dc.description:	Item is a proclamation issued by Commander in Chief of the Japanese Army and Navy in the Shanghai area during World War II.																	
+dc.creator:	Commanders-in-chief of the Japanese Army and Navy in the Shanghai area																	
+dc.publisher:	none																	
+dc.contributor:																		
+dc.date:	[1942-1943?]																	
+dc.type:	flier(s) AAT.																	
+dc.format:	image/tif																	
+dc.identifier:	1990.068.1.8.1																	
+dc.source:																		
+dc.language:	eng																	
+dc.relation:																		
+dc.coverage.spatial:	Shanghai (China)																	
+dc.rights:																		
+Dc.audience:																		
+collection:	Abkhazi Collection																	
+url:	http://contentdm.library.uvic.ca/cdm/compoundobject/collection/abkhazi/id/215/rec/10																	
+dctitle:	Brown Portrait.																	
+dc.subject:	Audrey Brown																	
+dc.description:	"Item is a photograph taken by the Daily Colonist in the garden of Ratledge's home in Fairfield Road, Victoria. The photograph is dated 1951."																	
+Dc.creator:																		
+DC.publisher:	no publisher																	
+DC.contributor:																		
+DC.date:	1951																	
+DC.type:	photo																	
+DC.format:	image/jpeg																	
+DC.identifier:																		
+DC.source:																		
+dc.language:	English																	
+dc.relation:																		
+dc.coverage.spatial:	"Victoria, B.C.;Washington DC"																	
+dc.rights:																		
+dc.audience:																		
+collection:	Audrey Alexandra Brown Collection																	
+url:	http://contentdm.library.uvic.ca:80/cdm/ref/collection/collection24/id/31																	
+dc.title:	Brown portrait																	
+dc.subject:	"Brown, Audrey Alexandra, 1904-1998"																	
+dc.description:	"Item is a photograph taken by Geo T. Wadds Portrait Photographer, November 7, 1935."																	
+dc.creator:	Geo T. Wadds Portrait Photographer (Firm)																	
+dc.publisher:	s.n.																	
+dc.contributor:																		
+dc.date:	"November 7, 1935"																	
+dc.type:	Photograph																	
+dc.format:	image/jpeg																	
+dc.identifier:																		
+dc.source:																		
+dc.language:	en																	
+dc.relation:																		
+dc.coverage.spatial:	"Victoria, British Columbia"																	
+dc.rights:																		
+dc.audience:																		
+collection:	Audrey alexandra brown collection.																	
+url:	http://contentdm.library.uvic.ca:80/cdm/ref/collection/collection24/id/34																	
+dc.title:	Brandt's Cormorant .  																	
+dc.subject:	Brandt's cormorant																	
+dc.description:	"A man feeding a cormorant at Victoria Harbour, Victoria B.C."																	
+dc.creator:	"McTaggart-Cowan, Ian, 1910-2010"																	
+dc.publisher:	publisher not identified																	
+dc.contributor:																		
+dc.date:	3/29/1939																	
+dc.type:	pohto																	
+dc.format:	img/jpg																	
+dc.identifier:																		
+dc.source:																		
+dc.language:	eng.																	
+dc.relation:																		
+dc.coverage.spatial:	"British Columbia--Victoria ;  48.4165, -123.39681"																	
+dc.rights:																		
+dc.audience:																		
+collection:	Ian McTaggart Cowan Collection																	
+url:	http://contentdm.library.uvic.ca/cdm/singleitem/collection/collection44/id/9596/rec/59																	
+dc.title:	 The Legacy of Japanese printmaking																	
+dc.subject:	" Prints, Japanese--Exhibitions; Prints--Technique; Prints--Japan--Exhibitions; Printmakers--Japan--Exhibitions"																	
+dc.description:																		
+dc.creator:	"Till, Barry, 1951-"																	
+dc.publisher:	Art Gallery of Greater Victoria																	
+dc.contributor:	"Swart, Paula"																	
+dc.date:	1905 - June 8th																	
+dc.type:	 Exhibition catalogs																	
+dc.format:	image/tiff																	
+dc.identifier:																		
+dc.source:																		
+dc.language:	ca-en																	
+dc.relation:																		
+dc.coverage.spatial:	Japan																	
+dc.rights:																		
+dc.audience:																		
+collection:	Art Gallery of Greater Victoria digital collection																	
+url:	http://contentdm.library.uvic.c/cdm/compoundobject/collection/collection45/id/3871/rec/17																	
+dc.title:	 [James Joyce] with grandson Stephen																	
+dc.subject:	" Joyce, James, 1882-1941
+Joyce, Stephen James, 1932-"																	
+dc.description:	 Item is a photograph taken by Gisele Freund.  30 x 24 cm																	
+dc.creator:	"Freund, Gisele"																	
+dc.publisher:																		
+dc.contributor:																		
+dc.date:	no date																	
+dc.type:	still image																	
+dc.format:	img/jpeg2000																	
+dc.identifier:	 1997-039-1.5-18																	
+dc.source:																		
+dc.language:	english																	
+dc.relation:																		
+dc.coverage.spatial:	Dublin?																	
+dc.rights:																		
+dc.audience:																		
+collection:	Item is part of the Gisele Freund fonds.																	
+url:	http://contentdm.library.uvic.ca/cdm/singleitem/collection/collection10/id/442/rec/12																	
+dc.title:	"C. Luthy Letter, 21 September 1922"																	
+dc.subject:	"Hudec, La?szlo?, 1893-1958
+Dwellings--Design and construction"																	
+dc.description:	"Item is a letter. Letter to Hudec handwritten on C. Luthy, S.I.A., Consulting Engineer (Civil Engineering) letterhead. Letter written in German, dated 21 Sept. 1922, and signed C. Luthy."																	
+dc.creator	"Luthy, C."																	
+dc.publisher:																		
+dc.contributor:																		
+dc.date:	1922-09-21																	
+dc.type:	correspondence AAT;StillImage																	
+dc.format:	image/jp2																	
+dc.identifier:	SC132 1.3.18																	
+dc.source:																		
+dc.language:	ger																	
+dc.relation:																		
+dc.coverage.spatial:	Shanghai;Washington D.C.																	
+dc.rights:																		
+dc.audience:																		
+collection:	Hudec collection																	
+url:	http://contentdm.library.uvic.ca/cdm/singleitem/collection/collection21/id/501/rec/11																	
+dc.title:	"C. Luthy letter, 20 Sept. 1922"																	
+dc.subject:	" Hudec, La?szlo?;
+Dwelling--design and construction"																	
+dc.description:	"Item is a letter. Letter to Hudec handwritten on C. Luthy, S.I.A., Consulting Engineer (Civil Engineering) letterhead. Letter written in German, dated 20 Sept. 1922, and signed C. Luthy."																	
+dc.creator:	c. luthy																	
+dc.publisher:																		
+dc.contributor:																		
+dc.date:	1922-20-09																	
+dctype:	 correspondence AAT; still immage																	
+dc.format:	Image/tif																	
+dc.identifier:	 SC132 1.3.2																	
+dc.source:																		
+dc.language:	german																	
+dc.relation:																		
+dc.coverage.spatial:	Hu																	
+dc.rights:																		
+dc.audience:																		
+collection:	Laszlo Hudec colletion																	
+url:	http://contentdm.library.uvic.ca/cdm/single/collection/collection21/id/486/rec/10																	
+dc.title:	Boheme																	
+dc.subject:	" Operas--Performances; Puccini, Giacomo, 1858-1924. Bohe?me; Pacific Opera Victoria"																	
+dc.description:	"Item is a poster. 47 cm x 37 cm. Pacific Opera Victoria production of Puccini's La Boheme. Artistic direction by Timothy Vernon, direction by Glynis Leyshon. Starring Iris Fraser, Rico Serbo, Irena Wellhasch, Theodore Baerg, Christopher Cameron, Stephen Bouey. Poster illustration by Andrew Struthers."																	
+dc.creator:	Unknown																	
+dc.publisher:	 Pacific Opera Victoria																	
+dc.contributor:	" Vernon, Timothy"																	
+dc.date:	"February, 1986"																	
+dc.type:	posters; StillImage																	
+dc.format:	image/tif																	
+dc.identifier:																		
+dc.source:																		
+dclanguage:	English																	
+dc.relation:																		
+dc.coverage.spatial:	Victoria (B.C.)																	
+dc.rights:																		
+dc.audience:																		
+collection:	Opera posters																	
+url:	http://contentdm.library.uvic.ca/cdm/singleitem/collection/collection4/id/34/rec/3																	
+dc.title:	Marriage of Figaro (2003)																	
+dc.subject:	"Operas Performances; Mozart, Wolfgang Amadeus, 1756-1791. Nozze di Figaro; Pacific opera Victoria."																	
+dc.description:	 Item is a poster. 52 cm x 35.5 cm Pacific Opera Victoria's production of The Marriage of Figaro by Mozart. Artistic Diractor Timothy Vernon. General manager David Devan. Poster design Jane Francis. Poster illustration Sara Tyson.																	
+dc.creator:	unspecified																	
+dc.publisher:	"Pacific Opera, Victoria"																	
+dc.contributor:	"Vernon, Timothy"																	
+dc.date:	1986/02																	
+dc.type:	poster;Still Images																	
+dc.format:	image/jpeg																	
+dc.identifier:																		
+dc.source:																		
+dc.language:	Eng																	
+dc.relation:																		
+dc.coverage.spatial:	Victoria BC																	
+DCrights:																		
+dc.audience:																		
+collection:	Pacific Opera Victoria Poster Collection																	
+url:	http://contentdm.library.uvic.ca/cdm/singleitem/collection/collection4/id/52/rec/19																	
